@@ -1,0 +1,9 @@
+------------------------------------------------------------------------------------------------------------------------
+
+  > In Module 4, you learned about the following concepts:
+    - Structuring and connecting to a VPC
+    - Securing VPC resources with network access control lists and security groups
+    - Using Amazon Route 53 and Amazon CloudFront to deliver content
+
+------------------------------------------------------------------------------------------------------------------------
+
