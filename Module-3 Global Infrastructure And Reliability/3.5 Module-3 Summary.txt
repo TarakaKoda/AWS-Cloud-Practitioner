@@ -1,0 +1,11 @@
+------------------------------------------------------------------------------------------------------------------------
+
+  > In Module 3, you learned about the following concepts:
+    - AWS Regions and Availability Zones
+    - Edge locations and Amazon CloudFront
+    - The AWS Management Console, AWS CLI, and SDKs
+    - AWS Elastic Beanstalk
+    - AWS CloudFormation
+
+------------------------------------------------------------------------------------------------------------------------
+
