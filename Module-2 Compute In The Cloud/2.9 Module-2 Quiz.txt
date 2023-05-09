@@ -2,7 +2,7 @@
 
                                AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        08-05-2023
 
-                                 MODULE-1: Introduction To Amazon Web Services(AWS)
+                                           MODULE-2: COMPUTING IN THE CLOUD
                                                      *QUIZ*                                                  09:35:55AM
 
 ------------------------------------------------------------------------------------------------------------------------
