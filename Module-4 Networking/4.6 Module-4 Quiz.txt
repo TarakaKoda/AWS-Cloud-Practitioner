@@ -1,0 +1,76 @@
+************************************************************************************************************************
+
+                               AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        09-05-2023
+
+                                               MODULE-4: NETWORKING
+                                                     *QUIZ*                                                  10:12:05AM
+
+------------------------------------------------------------------------------------------------------------------------
+
+  > Test your knowledge of some key concepts from this module by answering the questions in this quiz.
+
+  1. Your company has an application that uses Amazon EC2 instances to run the customer-facing website and Amazon RDS
+     database instances to store customers’ personal information. How should the developer configure the VPC according
+     to best practices?
+
+  a. Place the Amazon EC2 instances in a private subnet and the Amazon RDS database instances in a public subnet
+
+  b. Place the Amazon EC2 instances in a public subnet and the Amazon RDS database instances in a private subnet.
+
+  c. Place the Amazon EC2 instances and the Amazon RDS database instances in a public subnet.
+
+  d. Place the Amazon EC2 instances and the Amazon RDS database instances in a private subnet.
+
+------------------------------------------------------------------------------------------------------------------------
+
+  2. Which component can be used to establish a private dedicated connection between your company’s data center and AWS?
+
+  a. Private subnet
+
+  b. DNS
+
+  c. AWS Direct Connect
+
+  d. Virtual private gateway
+
+------------------------------------------------------------------------------------------------------------------------
+
+  3. Which statement best describes security groups?
+
+  a. They are stateful and deny all inbound traffic by default
+
+  b. They are stateful and allow all inbound traffic by default.
+
+  c. They are stateless and deny all inbound traffic by default
+
+  d. They are stateless and allow all inbound traffic by default.
+
+------------------------------------------------------------------------------------------------------------------------
+
+  4. Which component is used to connect a VPC to the internet?
+
+  a. Public subnet
+
+  b. Edge location
+
+  c. Security group
+
+  d. Internet gateway
+
+------------------------------------------------------------------------------------------------------------------------
+
+  5. Which service is used to manage the DNS records for domain names?
+
+  a. Amazon Virtual Private Cloud
+
+  b. AWS Direct Connect
+
+  c. Amazon CloudFront
+
+  d. Amazon Route 53
+
+------------------------------------------------------------------------------------------------------------------------
+
+                                      *END OF MODULE-4: NETWORKING*
+
+************************************************************************************************************************
