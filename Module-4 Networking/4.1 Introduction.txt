@@ -1,0 +1,21 @@
+************************************************************************************************************************
+
+                               AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        09-05-2023
+
+                                               MODULE-4: NETWORKING
+                                                                                                             10:12:05AM
+
+------------------------------------------------------------------------------------------------------------------------
+
+  > Learning objectives
+    - In this module, you will learn how to:
+      - Describe the basic concepts of networking.
+      - scribe the difference between public and private networking resources.
+      - Explain a virtual private gateway using a real life scenario.
+      - Explain a virtual private network (VPN) using a real life scenario.
+      - Describe the benefit of AWS Direct Connect.
+      - Describe the benefit of hybrid deployments.
+      - Describe the layers of security used in an IT strategy.
+      - Describe the services customers use to interact with the AWS global network.
+
+------------------------------------------------------------------------------------------------------------------------
