@@ -2,7 +2,7 @@
 
                                AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        09-05-2023
 
-                                             MODULE-4: STORAGE AND DATABASES
+                                             MODULE-5: STORAGE AND DATABASES
                                                                                                              05:36:15PM
 
 ------------------------------------------------------------------------------------------------------------------------
