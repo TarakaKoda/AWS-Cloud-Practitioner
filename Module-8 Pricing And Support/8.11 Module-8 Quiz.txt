@@ -1,0 +1,77 @@
+************************************************************************************************************************
+
+                               AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        11-05-2023
+
+                                          MODULE-8: PRICING AND SUPPORT
+                                                    *QUIZ*                                                   01:50:10AM
+
+------------------------------------------------------------------------------------------------------------------------
+
+> Test your knowledge of some key concepts from this module by answering the questions in this quiz.
+
+  1. Which action can you perform with consolidated billing?
+
+  a. Review how much cost your predicted AWS usage will incur by the end of the month.
+
+  b. Create an estimate for the cost of your use cases on AWS
+
+  c. Combine usage across accounts to receive volume pricing discounts.
+
+  d. Visualize and manage your AWS costs and usage over time.
+
+------------------------------------------------------------------------------------------------------------------------
+
+  2. Which pricing tool is used to visualize, understand, and manage your AWS costs and usage over time?
+
+  a. AWS Pricing Calculator
+
+  b. AWS Budgets
+
+  c. AWS Cost Explorer
+
+  d. AWS Free Tier
+
+------------------------------------------------------------------------------------------------------------------------
+
+  3. Which pricing tool enables you to receive alerts when your service usage exceeds a threshold that you have defined?
+
+  a. Billing dashboard in the AWS Management Console
+
+  b. AWS Budgets
+
+  c. AWS Free Tier
+
+  d. AWS Cost Explorer
+
+------------------------------------------------------------------------------------------------------------------------
+
+  4. Your company wants to receive support from an AWS Technical Account Manager (TAM). Which support plan should you
+     choose?
+
+  a. Developer
+
+  b. Enterprise
+
+  c. Basic
+
+  d. Business
+
+------------------------------------------------------------------------------------------------------------------------
+
+  5. Which service or resource is used to find third-party software that runs on AWS?
+
+  a. AWS Marketplace
+
+  b. AWS Free Tier
+
+  c. AWS Support
+
+  d. Billing dashboard in the AWS Management Console
+
+------------------------------------------------------------------------------------------------------------------------
+
+                                     *END OF MODULE-8 QUIZ: PRICING AND SUPPORT*
+
+************************************************************************************************************************
+
+
