@@ -1,0 +1,17 @@
+************************************************************************************************************************
+
+                               AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        11-05-2023
+
+                                          MODULE-7: MONITORING AND ANALYTICS
+                                                                                                             09:13:52AM
+
+------------------------------------------------------------------------------------------------------------------------
+
+>   Learning objectives
+    - In this module, you will learn how to:
+      - Summarize approaches to monitoring your AWS environment.
+      - Describe the benefits of Amazon CloudWatch.
+      - Describe the benefits of AWS CloudTrail.
+      - Describe the benefits of AWS Trusted Advisor.
+
+------------------------------------------------------------------------------------------------------------------------
