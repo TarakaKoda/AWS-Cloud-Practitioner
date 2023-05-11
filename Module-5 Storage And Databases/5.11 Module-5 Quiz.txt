@@ -2,7 +2,7 @@
 
                                AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        09-05-2023
 
-                                               MODULE-4: NETWORKING
+                                               MODULE-5: STORAGE AND DATABASES
                                                      *QUIZ*                                                  05:36:15PM
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -25,10 +25,8 @@
   2. Which statement or statements are TRUE about Amazon EBS volumes and Amazon EFS file systems?
 
   a. EBS volumes store data within a single Availability Zone. Amazon EFS file systems store data across multiple
-     Availability Zones.
 
   b. EBS volumes store data across multiple Availability Zones. Amazon EFS file systems store data within a single
-     Availability Zone.
 
   c. EBS volumes and Amazon EFS file systems both store data within a single Availability Zone.
 
@@ -72,6 +70,6 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 
-                                      *END OF MODULE-5: Storage And Database*
+                                      *END OF MODULE-5 QUIZ: Storage And Database*
 
 ************************************************************************************************************************

@@ -1,0 +1,75 @@
+************************************************************************************************************************
+
+                               AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        10-05-2023
+
+                                               MODULE-6: SECURITY
+                                                     *QUIZ*                                                  11:20:45AM
+
+------------------------------------------------------------------------------------------------------------------------
+
+ > Test your knowledge of some key concepts from this module by answering the questions in this quiz.
+
+  1. Which statement best describes an IAM policy?
+
+  a. An authentication process that provides an extra layer of protection for your AWS account
+
+  b. A document that grants or denies permissions to AWS services and resources
+
+  c. An identity that you can assume to gain temporary access to permissions
+
+  d. The identity that is established when you first create an AWS account
+
+------------------------------------------------------------------------------------------------------------------------
+
+  2. An employee requires temporary access to create several Amazon S3 buckets. Which option would be the best choice
+     for this task?
+
+  a. AWS account root user
+
+  b. IAM group
+
+  c. IAM role
+
+  d. Service control policy (SCP)
+
+------------------------------------------------------------------------------------------------------------------------
+
+  3. Which statement best describes the principle of least privilege?
+
+  a. Adding an IAM user into at least one IAM group
+
+  b. Checking a packet’s permissions against an access control list
+
+  c. Granting only the permissions that are needed to perform specific tasks
+
+  d. Performing a denial of service attack that originates from at least one device
+
+------------------------------------------------------------------------------------------------------------------------
+
+  4. Which service helps protect your applications against distributed denial-of-service (DDoS) attacks?
+
+  a. Amazon GuardDuty
+
+  b. Amazon Inspector
+
+  c. AWS Artifact
+
+  d. AWS Shield
+
+------------------------------------------------------------------------------------------------------------------------
+
+  5. Which task can AWS Key Management Service (AWS KMS) perform?
+
+  a. Configure multi-factor authentication (MFA).
+
+  b. Update the AWS account root user password.
+
+  c. Create cryptographic keys.
+
+  d. Assign permissions to users and groups.
+
+------------------------------------------------------------------------------------------------------------------------
+
+                                      *END OF MODULE-5 QUIZ: SECURITY*
+
+************************************************************************************************************************
