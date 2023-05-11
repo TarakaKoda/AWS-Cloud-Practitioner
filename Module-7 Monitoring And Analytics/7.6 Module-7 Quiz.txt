@@ -1,0 +1,54 @@
+************************************************************************************************************************
+
+                               AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        11-05-2023
+
+                                          MODULE-7: MONITORING AND ANALYTICS
+                                                     *QUIZ*                                                  09:13:52AM
+
+------------------------------------------------------------------------------------------------------------------------
+
+ > Test your knowledge of some key concepts from this module by answering the questions in this quiz.
+
+  1. Which actions can you perform using Amazon CloudWatch? (Select TWO.)
+
+  a. Monitor your resources’ utilization and performance
+
+  b. Receive real-time guidance for improving your AWS environment
+
+  c. Compare your infrastructure to AWS best practices in five categories
+
+  d. Access metrics from a single dashboard
+
+  e. Automatically detect unusual account activity
+
+------------------------------------------------------------------------------------------------------------------------
+
+  2. Which service enables you to review the security of your Amazon S3 buckets by checking for open access permissions?
+
+  a. Amazon CloudWatch
+
+  b. AWS CloudTrail
+
+  c. AWS Trusted Advisor
+
+  d. Amazon GuardDuty
+
+------------------------------------------------------------------------------------------------------------------------
+
+  3. Which categories are included in the AWS Trusted Advisor dashboard? (Select TWO.)
+
+  a. Reliability
+
+  b. Performance
+
+  c. Scalability
+
+  d. Elasticity
+
+  e. Fault tolerance
+
+------------------------------------------------------------------------------------------------------------------------
+
+                                     *END OF MODULE-7 QUIZ: MONITORING AND ANALYTICS*
+
+************************************************************************************************************************
