@@ -1,0 +1,65 @@
+************************************************************************************************************************
+
+                               AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        11-05-2023
+
+                                        MODULE-9: MIGRATION AND INNOVATION
+                                                 *QUIZ*                                                       1:12:23PM
+
+------------------------------------------------------------------------------------------------------------------------
+
+> Test your knowledge of some key concepts from this module by answering the questions in this quiz.
+
+  1. Which Perspective of the AWS Cloud Adoption Framework helps you structure the selection and implementation of
+     permissions?
+
+  a. Governance Perspective
+
+  b. Security Perspective
+
+  c. Operations Perspective
+
+  d. Business Perspective
+
+------------------------------------------------------------------------------------------------------------------------
+
+  2. Which strategies are included in the six strategies for application migration? (Select TWO.)
+
+  a. Revisiting
+
+  b. Retaining
+
+  c. Remembering
+
+  d. Redeveloping
+
+  e. Rehosting
+
+------------------------------------------------------------------------------------------------------------------------
+
+  3. What is the storage capacity of AWS Snowmobile?
+
+  a. 40 PB
+
+  b. 60 PB
+
+  c. 80 PB
+
+  d. 100 PB
+
+------------------------------------------------------------------------------------------------------------------------
+
+  4. Which statement best describes Amazon Lex?
+
+  a. A service that enables you to build conversational interfaces using voice and text
+
+  b. A machine learning service that automatically extracts text and data from scanned documents
+
+  c. A document database service that supports MongoDB workloads
+
+  d. A service that enables you to identify potentially fraudulent online activities
+
+------------------------------------------------------------------------------------------------------------------------
+
+                                  *END OF MODULE-9: MIGRATION AND INNOVATION*
+
+************************************************************************************************************************
