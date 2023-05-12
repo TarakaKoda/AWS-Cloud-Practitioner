@@ -1,0 +1,9 @@
+------------------------------------------------------------------------------------------------------------------------
+
+  > In Module 9, you learned about the following concepts:
+    - The AWS Cloud Adoption Framework
+      - The six strategies for migration
+      - The AWS Snow Family
+      - Innovation with AWS services
+
+------------------------------------------------------------------------------------------------------------------------
