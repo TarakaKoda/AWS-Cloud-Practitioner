@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------------
+
+  > In Module 10, you learned about the following concepts:
+    - The six pillars of the AWS Well-Architected Framework:
+      - Operational excellence
+      - Security
+      - Reliability
+      - Performance efficiency
+      - Cost optimization
+      - Sustainability
+
+    - Six advantages of cloud computing:
+      - Trade upfront expense for variable expense.
+      - Benefit from massive economies of scale.
+      - Stop guessing capacity.
+      - Increase speed and agility.
+      - Stop spending money running and maintaining data centers.
+      - Go global in minutes.
+
+------------------------------------------------------------------------------------------------------------------------
