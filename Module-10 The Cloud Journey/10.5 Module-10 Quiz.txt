@@ -1,0 +1,41 @@
+************************************************************************************************************************
+
+                               AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        11-05-2023
+
+                                        MODULE-10: THE CLOUD JOURNEY
+                                                *QUIZ*                                                       08:03:50PM
+
+------------------------------------------------------------------------------------------------------------------------
+
+> Test your knowledge of some key concepts from this module by answering the questions in this quiz.
+
+  1. Which pillar of the AWS Well-Architected Framework includes the ability to run workloads effectively and gain
+     insights into their operations?
+
+  a. Cost Optimization
+
+  b. Operational Excellence
+
+  c. Performance Efficiency
+
+  d. Reliability
+
+------------------------------------------------------------------------------------------------------------------------
+
+  2. What are the benefits of cloud computing? (Select TWO.)
+
+  a. Increase speed and agility.
+
+  b. Benefit from smaller economies of scale.
+
+  c. Trade variable expense for upfront expense.
+
+  d. Maintain infrastructure capacity.
+
+  e. Stop spending money running and maintaining data centers.
+
+------------------------------------------------------------------------------------------------------------------------
+
+                                  *END OF MODULE-10 QUIZ: THE CLOUD JOURNEY*
+
+************************************************************************************************************************
