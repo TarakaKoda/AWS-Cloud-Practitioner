@@ -1,0 +1,15 @@
+************************************************************************************************************************
+
+                               AMAZON WEB SERVICES(AWS) CLOUD PRACTITIONER ESSENTIALS                        11-05-2023
+
+                                        MODULE-10: THE CLOUD JOURNEY
+                                                                                                             08:03:50PM
+
+------------------------------------------------------------------------------------------------------------------------
+
+  > Learning objectives
+    - In this module, you will learn how to:
+      - Summarize the six pillars of the Well-Architected Framework.
+      - Explain the six benefits of cloud computing.
+
+------------------------------------------------------------------------------------------------------------------------
